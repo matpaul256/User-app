@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423699544297",
+    "project_id": "webuyug-93897",
+    "storage_bucket": "webuyug-93897.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423699544297:android:b7e93eac46d27caf309878",
+        "android_client_info": {
+          "package_name": "com.webuyug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJa6itJUmh2HmReMP7VxDfqS_qSFL_q9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
