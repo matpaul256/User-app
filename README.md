@@ -1,4 +1,4 @@
-# 6valley ecommerce
+# webuyug ecommerce
 
 A new Flutter setup application for starting a project.
 
